@@ -1,0 +1,14 @@
+{
+  "name": "primeiro_app",
+  "version": "1.0.0",
+  "description": "Primeiro Projeto Usando Eletron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "otavio",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
