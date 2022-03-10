@@ -16,7 +16,11 @@ Para instalar o <nome_do_projeto>, siga estas etapas:
 
 Windows:
 ```
+Baixar as dependências
 <npm i>
+
+Iniciar o Projeto
+<npm start>
 ```
 ## 🤝 Desenvolvedor
 
